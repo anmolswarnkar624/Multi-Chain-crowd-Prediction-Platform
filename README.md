@@ -108,3 +108,5 @@ We envision a future where prediction markets become a primary tool for decision
 
 **Contact**: For questions, suggestions, or partnerships, please open an issue or reach out to the development team.
 Contract Address: 0xD6b91f7D3792AC3944f42A2a9b8B05f212aF527b
+<img width="1366" height="313" alt="image" src="https://github.com/user-attachments/assets/3b7f0794-3f2a-4f09-bfa1-f3322952e226" />
+
